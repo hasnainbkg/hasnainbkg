@@ -59,11 +59,11 @@ logo = """ -----------------------------•◈•
 \033[1;96mAuthor  \hasnain;lbalushi
 \033[1;96mInstagram \hasnain albalushi
 \033[1;96mFacebook  \hasnain albalushi
-\033[1;96mGithub \https://github.com/Thehasnain/albalushi
+\033[1;96mGithub git clone https://github.com/hasnain/albalushi
 \033[1;91m======================================="""
 
-def tik():
-	titik = ['.   ','..  ','... ']
+def tik(): cd hasnain
+	titik = [python2 hasnain.py
 	for o in titik:
 		print("\r\033[1;96m[●] \x1b[1;93mSedang masuk \x1b[1;97m"+o),;sys.stdout.flush();time.sleep(1)
 
@@ -85,26 +85,27 @@ print
 6mAuthor  \hasnain albalushi
 \033[1;96mInstagram \hasnain albalushi
 \033[1;96mFacebook  \hasnain albalushi
-\033[1;96mGithub \033[1;93m: \033[1;92mhttps://Github.com/Thehasnain/albalushi
-\033[1;91m======================================="""
-print " \x1b[1;93m============================================================="
+\033[1;96mGithub git clone https://Github.com/asnain/albalushi
+cd hasnain
+print " python2 hasnain.py
+     "
 
 CorrectUsername = "hasnain"
 CorrectPassword = "hasnain"
 
 loop = 'true'
 while (loop == 'true'):
-    username = raw_input("\033[1;96m[☆] \x1b[1;93mUsername Of Tool \x1b[1;96m>>>> ")
-    if (username == CorrectUsername):
-    	password = raw_input("\033[1;96m[☆] \x1b[1;93mPassword Of Tool \x1b[1;96m>>>> ")
-        if (password == CorrectPassword):
-            print "Logged in successfully as " + username
+    username = hasnain
+    if (username == CorrectUsername): hasnain
+    	password = albalushi
+        if (password == albalushi
+            print "Logged in successfully as " + username hasnain
             loop = 'false'
         else:
-            print "Wrong Password"
+            print "Wrong Password"albalushi
             os.system('xdg-open https://www.Youtube.com/UCsdJQbRf0xpvwaDu1rqgJuA')
     else:
-        print "Wrong Username"
+        print "Wrong Username"hasnain
         os.system('xdg-open https://www.Youtube.com/UCsdJQbRf0xpvwaDu1rqgJuA')
 
 def login():
