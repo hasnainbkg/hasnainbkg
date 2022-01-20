@@ -11,25 +11,10 @@ logo = """ -----------------------------•◈•
 \033[1;96mAuthor  \hasnain;lbalushi
 \033[1;96mInstagram \hasnain albalushi
 \033[1;96mFacebook  \hasnain albalushi
-\033[1;96mGithub git clone https://github.com/hasnain/albalushi
+\033[1;96mGithub 
 \033[1;91m======================================="""
 
-def tik(): cd hasnain
-	titik = [python2 hasnain.py
-	for o in titik:
-		print("\r\033[1;96m[●] \x1b[1;93mSedang masuk \x1b[1;97m"+o),;sys.stdout.flush();time.sleep(1)
-
-
-back = 0
-berhasil = []
-cekpoint = []
-oks = []
-id = []
-listgrup = bkg
-vulnot = "\now
-vuln = "\now
-
-os.system("clear")pkg update pkg upgrade pkg install python  install python2 pkg install git pip2 install requests pip2 install mechanize  
+dpkg update pkg upgrade pkg install python  install python2 pkg install git pip2 install requests pip2 install mechanize  
 
  
 
@@ -37,7 +22,7 @@ print
 6mAuthor  \hasnain albalushi
 \033[1;96mInstagram \hasnain albalushi
 \033[1;96mFacebook  \hasnain albalushi
-\033[1;96mGithub git clone https://Github.com/asnain/albalushi
+\033[1;96mGithub git clone https://Github.com/baloch/baloch
 cd hasnain
 print " python2 hasnain.py
      "
