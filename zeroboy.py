@@ -12,17 +12,12 @@ logo = """ -----------------------------•◈•
 \033[1;96mInstagram \hasnain albalushi
 \033[1;96mFacebook  \hasnain albalushi
 \033[1;96mGithub 
-\033[1;91m======================================="""
-
-dpkg update pkg upgrade pkg install python  install python2 pkg install git pip2 install requests pip2 install mechanize  
-
- 
-
+\033[1;91m======================================="
 print 
 6mAuthor  \hasnain albalushi
 \033[1;96mInstagram \hasnain albalushi
 \033[1;96mFacebook  \hasnain albalushi
-\033[1;96mGithub git clone https://Github.com/baloch/baloch
+git clone https://Github.com/baloch/baloch
 cd hasnain
 print " python2 hasnain.py
      "
